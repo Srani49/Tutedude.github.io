@@ -1,0 +1,99 @@
+@media (max-width:960px) {
+    section{
+        min-height: 90vh;
+    }
+    header img.logo{
+        width:100px;
+       }  
+    nav button{
+        margin-right: .6rem;   
+    }
+
+    nav i.fas{
+        margin-right:2rem;
+        font-size:1.3rem;
+
+    }
+    .btn{
+        font-size: 1rem;
+        padding-left:1rem;
+    }
+    #login{
+        font-size: 1rem;
+    }
+    .box1{
+        font-size:1.5rem;
+        margin-top:2rem;
+    }
+    .box2{
+        font-size:1.2rem;
+    }
+    .box2 p span{
+        font-size:1.8rem;
+    }
+    .box3{
+        font-size:.6rem;
+    }
+    .box4{
+        padding:1.5rem 4rem;
+    }
+    .about .heading{
+      font-size:2rem;
+      margin-left:1.5rem;
+    }
+    .about .text{
+        font-size:1.5rem;
+    }
+    .about .text img{
+        width:230px;
+        height:250px;
+
+    }
+    .courses .container .c-box h3{
+        font-size:2.2rem;
+    }
+    .courses .container .c-box h2{
+        font-size:1.8rem;
+    }
+    .heading{
+        font-size:1.2rem;
+    }
+    .add-logo h2{
+        font-size:1rem;
+    }
+    .add-text img{
+        width:150px;
+        height:100px;
+    }
+    .add-text p{
+        font-size:1.5rem;
+    }
+    .btn-add{
+        padding:1.7rem 3.5rem;
+        font-size:1.4rem;
+    }
+    .top{
+        font-size:2rem;
+        margin-left:20%;
+        padding:2rem 4rem;
+    }
+    .categories h2{
+        font-size:2rem;
+    }
+    .item1{
+        font-size:1rem;
+    padding:2rem 6rem;
+    }
+    .items-box1 img{
+        width:100px;
+        height:100px;
+    }
+    .items-box1 h3{
+        font-size:2.8rem;
+    }
+    #see-btn{
+        padding:1rem 1.6rem;
+    }
+
+  
+}
